@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React.js & Node.js...
 - 🎓 I studied information and communication engineering at Myongji University.
 - :office: From August 2021 to February 2022, I will work as an intern at Moornmo.
+- :e-mail: My E-mail Address wnsguddl789@gmail.com
 
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge"/></a>
 <img alt="React"   src ="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>
