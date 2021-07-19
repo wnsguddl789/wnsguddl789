@@ -18,7 +18,7 @@
 
 
 </div>
- - :pencil: The list I'm studying now. </a>
+ - :pencil: The list I'm studying now. </hr>
 <a href="https://github.com/wnsguddl789/React_NodeBird">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnsguddl789&repo=React_NodeBird" />
 </a>
