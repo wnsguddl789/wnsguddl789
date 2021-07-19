@@ -15,7 +15,7 @@
 
 
 </div>
-<img alt="React" 
-     src ="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=339933&style=for-the-badge"/>
+<img alt="Node.js" 
+     src ="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge"/>
 <img alt="React" 
      src ="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
