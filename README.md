@@ -1,6 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BBAK%20JUN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 ### Hi I'm BBAKJUN(Park JunHyeong) 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BBAK%20JUN&fontSize=950&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 - 🌱 I’m currently learning React.js & Node.js...
 - 🎓 I studied information and communication engineering at Myongji University.
 - :office: From August 2021 to February 2022, I will work as an intern at Moornmo.
