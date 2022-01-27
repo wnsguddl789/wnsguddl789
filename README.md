@@ -32,20 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-00591?style=flat-square&logo=mysql&logoColor=white"/>
  </div>
 </div>
-<div align=left>
+<div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsguddl789&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsguddl789&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a> -->
-
-
 </div>
- - :pencil: The list I'm studying now. </br>
-
- <a href="https://github.com/wnsguddl789/React_NodeBird">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnsguddl789&repo=React_NodeBird&theme=dark" />
- </a>
- <a href="https://github.com/wnsguddl789/ReactGame">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnsguddl789&repo=ReactGame&theme=dark" />
- </a>
-
