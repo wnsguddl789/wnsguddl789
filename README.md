@@ -7,7 +7,9 @@
 - :office: From August 2021 to February 2022, I will work as an intern at Moornmo.
 - :e-mail: My E-mail Address wnsguddl789@gmail.com
 <div align='center'>
+ 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BBAK%20JUN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+ 
  <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
