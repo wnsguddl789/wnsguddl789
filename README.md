@@ -8,6 +8,8 @@
 - :office: From March 2022 to Now I working at Sejinmind.
 - :e-mail: My E-mail Address wnsguddl789@gmail.com
 - 🤔 My PortFolio-Site : https://jun-log.vercel.app/
+- 🤔 My Blog : [velog.io/@wnsguddl789](https://velog.io/@wnsguddl789) [devBBAK](https://dev-bbak.site/)
+
 
 <hr>
 
