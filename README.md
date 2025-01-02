@@ -4,5 +4,5 @@
 개발자의 경험도 중요시하여 보다 좋은 코드 나아가 보다 높은 팀 생산성을 위해 고민하는 주니어 개발자 박준형입니다.
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/wnsguddl789?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/wnsguddl789"/>
 </a>
